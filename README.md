@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+
+### My name is Ahetesham Qureshi.
+
+- 🔭 I’m a student of Computer Engineering at JMI New Delhi , currently studying in 3rd Semester.
+- 🌱 I’m currently learning Flutter Framework.
+- 📫 How to reach me: aheteq45@gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 **aheteshamq25/aheteshamq25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
